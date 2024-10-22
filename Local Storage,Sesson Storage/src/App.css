@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+
+form{
+  background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlilz_9s4OIcKhvwT4QjvmE_9jLLK3SslrdQ&s);
+  display:inline-block;
+  padding: 20px;
+
+}
+form label{
+  width: 150px;
+  display: inline-block;
+}
+form div{
+  margin: 20px;
+}
+h2{
+  background-image: url(https://img.freepik.com/premium-photo/futuristic-glowing-red-light-blue-gray-metallic-d-squares-background_208978-8965.jpg);
+  background-size: cover;
+  background-position: center;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+}
+
+nav{
+  
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  font-size: 1rem;
+
+}
+button{
+  background-color: aqua;
+  border: 5px solid black;
+}
